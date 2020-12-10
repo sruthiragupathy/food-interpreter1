@@ -7,8 +7,6 @@ const emojiDictionary = {
   "🍕": "Pizza",
   "🧀": "Cheese Wedge",
   "🌮": "Taco",
-  "🌯": "Burrito",
-  "🍿": "PopCorn",
   "🍣": "Sushi",
   "🥟": "Dumpling",
   "🍩": "Doughnut",
